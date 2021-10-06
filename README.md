@@ -10,7 +10,8 @@ This repository contains my project submission for project 3 of Udacity's [Deep 
 This is an environment provided by Udacity that is similar, but not identical to the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment on the Unity ML-Agents GitHub page.
 
 </br>
-![tennis](https://github.com/p-Cyan/Udacity_DeepRL_P3_Collaboration_and_Competition/blob/main/images/tennis.png)</br>
+![demonstration]()
+</br>
 </br>
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1.  If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01.  Thus, the goal of each agent is to keep the ball in play.
